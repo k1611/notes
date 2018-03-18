@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1075289987837",
+    "firebase_url": "https://simplenotesapp-master.firebaseio.com",
+    "project_id": "simplenotesapp-master",
+    "storage_bucket": "simplenotesapp-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075289987837:android:43dd41d382d9cc0b",
+        "android_client_info": {
+          "package_name": "example.androidgrid.simplenotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075289987837-cs32feopqjemqo0ddptp2umfhq9c6ob5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.androidgrid.simplenotesapp",
+            "certificate_hash": "6f728ddfa52e4a0279bffac05d939e551729dfe4"
+          }
+        },
+        {
+          "client_id": "1075289987837-9a9ecajesvege20p47uaaa1j7c97sm73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZvkK-cRayYQjzftZDYsPLyQLSagF_W6M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075289987837-9a9ecajesvege20p47uaaa1j7c97sm73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#aa55beef</color>
+    <!--<color name="colorPrimary">#3ea0fc</color>-->
+    <color name="colorPrimaryDark">#aa55beef</color>
+    <!--<color name="colorPrimaryDark">#2791f5</color>-->
+    <color name="colorAccent">#aa55beef</color>
+    <color name="colorUse">#aa55beef</color>
+</resources>
